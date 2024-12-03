@@ -14,7 +14,7 @@ LET'S GO!!!
 
 1. ~Lua~
 2. ~rust~
-3. Zig
+3. ~Zig~ Total pain to compile. js 
 4. Vala
 5. C
 6. C++
