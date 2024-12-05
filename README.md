@@ -14,27 +14,6 @@ LET'S GO!!!
 
 1. ~Lua~
 2. ~rust~
-3. ~Zig~ Total pain to compile. js 
-4. ~Vala~ Could not make it quite work. python
-5. C Yeah, I kinda give up on this order. I'll try to use different stuff for know but yeah...
-6. C++
-7. Elixir
-8. OCaml
-9. Lisp
-10. Erlang
-11. Java
-12. R
-13. php
-14. Holy C
-15. haskell
-16. ruby
-17. PERL
-18. COBOL
-19. bash
-20. go
-21. julia
-22. c#
-23. python
-24. ts
-25. js
-
+3. ~js~
+4. ~python~
+5. ~Julia~
