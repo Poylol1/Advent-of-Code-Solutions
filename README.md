@@ -16,7 +16,7 @@ LET'S GO!!!
 2. ~rust~
 3. ~Zig~ Total pain to compile. js 
 4. ~Vala~ Could not make it quite work. python
-5. C
+5. C Yeah, I kinda give up on this order. I'll try to use different stuff for know but yeah...
 6. C++
 7. Elixir
 8. OCaml
