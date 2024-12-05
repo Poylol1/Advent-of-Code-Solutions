@@ -15,7 +15,7 @@ LET'S GO!!!
 1. ~Lua~
 2. ~rust~
 3. ~Zig~ Total pain to compile. js 
-4. Vala
+4. ~Vala~ Could not make it quite work. python
 5. C
 6. C++
 7. Elixir
